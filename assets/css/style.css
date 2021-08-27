@@ -2325,6 +2325,15 @@ a:hover, a:focus {
 .card[data-color="orange"] .category {
     color: #e95e37;
 }
+.card[data-color="black"] {
+    background: #000000;
+}
+.card[data-color="black"] .description {
+    color: #ffffff;
+}
+.card[data-color="black"] .category {
+    color: #ffffff;
+}
 
 
 /* Style buttons */
