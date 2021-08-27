@@ -2251,7 +2251,7 @@ h4, .h4 {
 h6, .h6 {
     font-size: 6em;
     font-weight: bolder;
-    font-family: cursive;
+   /* font-family: cursive;*/
     text-transform: uppercase;
 }
 .card .category{
